@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/.svg?branch=master)](https://travis-ci.org/)
-
-> my-app
+[![Build Status](https://travis-ci.org/jverrone3/discoverbean.svg?branch=master)](https://travis-ci.org/jverrone3/discoverbean)
 
 ## Installation
 
